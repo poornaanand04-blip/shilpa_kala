@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998632898738",
+    "project_id": "shilpa-kala-58315",
+    "storage_bucket": "shilpa-kala-58315.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998632898738:android:cd00ac0418af22eb9bc9ab",
+        "android_client_info": {
+          "package_name": "com.shilpa.kala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY6r7zd3-klGrLhGpUcq0Iu3H4ee-7OQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
